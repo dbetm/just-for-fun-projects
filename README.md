@@ -5,7 +5,7 @@ Mini-projects just for fun that I have developed or collaborated.
 
     - **Description**: This project is intended to produce images composed of 16x16 pixel thumbnails of astro-photos mostly from by Hubble Space Telescope.
     - **Year**: 2022
-    - 8 ⭐
+    - 9 ⭐
 -------
 - [Counting stars](https://github.com/dbetm/counting-stars)
     
