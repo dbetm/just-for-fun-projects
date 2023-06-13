@@ -4,7 +4,7 @@ Mini-projects just for fun that I have developed or collaborated.
 - [Image 2 Melody](https://github.com/dbetm/image-2-melody)
 
     - **Description**: Inspired by NASA's sonification projects, generates melodies from images with different approaches, it allows you to create a short musical video.
-    - **Try on it**: https://dbetm-image-2-melody-web-app-eydksr.streamlit.app/
+    - **Try on it**: [https://dbetm-image-2-melody-web-app-k824c5.streamlit.app/](https://dbetm-image-2-melody-web-app-k824c5.streamlit.app/)
     - **Year**: 2023
     - ![Stars](https://img.shields.io/github/stars/dbetm/image-2-melody?color=green)
 -------
@@ -28,7 +28,7 @@ Mini-projects just for fun that I have developed or collaborated.
 - [Sunset color palette generator](https://github.com/dbetm/sunset-color-palette-gen)
 
     - **Description**: Generate color palettes using a dataset created with public sunset photos downloaded with Twitter API.
-    - **Try on it**: https://dbetm.github.io/sunset-color-palette-gen/
+    - **Try on it**: [https://dbetm.github.io/sunset-color-palette-gen/](https://dbetm.github.io/sunset-color-palette-gen/)
     - **Year**: 2022
     - ![Stars](https://img.shields.io/github/stars/dbetm/sunset-color-palette-gen?color=green)
 -------
