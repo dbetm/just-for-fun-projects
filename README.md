@@ -32,10 +32,11 @@ Mini-projects just for fun that I have developed or collaborated.
     - **Year**: 2022
     - ![Stars](https://img.shields.io/github/stars/dbetm/sunset-color-palette-gen?color=green)
 -------
+
 - [Pic2Hubble](https://github.com/Wolfteinter/Pic2Hubble)
 
     - **Description**: This project is intended to produce images composed of 16x16 pixel thumbnails of astro-photos mostly from by Hubble Space Telescope.
-    - **Try on it**: https://pic2hubble.herokuapp.com/ (by this moment the app is down)
+    - **Try on it**: https://pic2appble-hvlheiu8rexwewpebevkvr.streamlit.app/
     - **Year**: 2022
     - ![Stars](https://img.shields.io/github/stars/Wolfteinter/Pic2Hubble?color=green)
 -------
