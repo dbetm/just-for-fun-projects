@@ -1,5 +1,5 @@
 # Just For Fun Projects
-Mini-projects just for fun that I have developed or collaborated.
+Mini-projects just for fun that I have developed or collaborated on.
 
 - [Image 2 Melody](https://github.com/dbetm/image-2-melody)
 
@@ -20,7 +20,7 @@ Mini-projects just for fun that I have developed or collaborated.
 
 - [Spotify WraPy](https://github.com/dbetm/spotify-wrapy)
 
-    - **Description**: Inspired by Spotify Wrapped. Generate some visualizations and calculate some stats like total play and number of different artists listened.
+    - **Description**: Inspired by Spotify Wrapped. Generate a 42-seconds video with some plots and stats (example: total plays and number of different artists listened) from your streaming data.
     - **Year**: 2022
     - ![Stars](https://img.shields.io/github/stars/dbetm/spotify-wrapy?color=green)
 -------
