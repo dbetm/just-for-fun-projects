@@ -1,6 +1,14 @@
 # Just For Fun Projects
 Mini-projects just for fun that I have developed or collaborated on.
 
+
+- [Flymoon](https://github.com/dbetm/flymoon)
+
+    - **Description**: A web app to run locally on a LAN that predicts possible plane transits over the Moon or Sun
+    - **Year**: 2024
+    - ![Stars](https://img.shields.io/github/stars/dbetm/flymoon?color=green)
+-------
+
 - [Image 2 Melody](https://github.com/dbetm/image-2-melody)
 
     - **Description**: Inspired by NASA's sonification projects, generates melodies from images with different approaches, it allows you to create a short musical video.
